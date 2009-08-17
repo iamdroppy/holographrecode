@@ -1,0 +1,10 @@
+C:\Users\Tom\Desktop\trunk\bin\x64\Debug\Deltar.exe
+C:\Users\Tom\Desktop\trunk\bin\x64\Debug\Deltar.pdb
+C:\Users\Tom\Desktop\trunk\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\trunk\obj\x64\Debug\Deltar.exe
+C:\Users\Tom\Desktop\trunk\obj\x64\Debug\Deltar.pdb
+C:\Users\Tom\Desktop\HolographION\obj\x64\Debug\Deltar.exe
+C:\Users\Tom\Desktop\HolographION\obj\x64\Debug\Deltar.pdb
+C:\Users\Tom\Desktop\HolographION\bin\x64\Debug\Deltar.exe
+C:\Users\Tom\Desktop\HolographION\bin\x64\Debug\Deltar.pdb
+C:\Users\Tom\Desktop\HolographION\obj\x64\Debug\ResolveAssemblyReference.cache

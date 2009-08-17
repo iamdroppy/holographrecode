@@ -1,0 +1,27 @@
+##Ion Configuration File##
+
+# Minimum Log level #
+# 0 = Debug
+# 1 = Information
+# 2 = Warnings
+# 3 = Errors
+system.minloglevel=0
+
+# Database #
+db1.server.host=localhost
+db1.server.port=3306
+db1.server.uid=youruser
+db1.server.pwd=pass
+
+db1.name=swrld
+db1.minpoolsize=1
+db1.maxpoolsize=25
+
+# TCP listener #
+net.tcp.localip=127.0.0.1
+net.tcp.port=25
+net.tcp.maxcon=255
+
+# Habbo Hotel #
+projects.habbo.client.version=34
+projects.habbo.server.pinginterval=30000
